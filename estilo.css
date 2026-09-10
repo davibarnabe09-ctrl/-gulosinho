@@ -1,0 +1,75 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+
+body
+    {
+        background-color: #4682B4; /* Cor de Fundo */
+        color: #87CEFA; /* Cor da Fonte*/
+        font-family: serif;
+    }
+
+header
+    {
+        background-color:#00008B;
+        padding: 20px; /* Espaçamento Interno do Elemento */
+    }
+
+nav
+    {
+        background-color: #00008B;
+        padding: 15px; /* Espaçamento Interno do Elemento */
+    }
+
+main
+    {
+        background-color: #00008B;
+        padding: 15px; /* Espaçamento Interno do Elemento */
+        border-radius: 10px;
+    }
+
+footer
+    {
+        background-color:#00008B ;
+        padding: 10px; /* Espaçamento Interno do Elemento */
+    }
+
+#banner
+    {
+        background-color: #ffffffff;
+        margin: 10px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+#servicos
+    {
+        background-color: #ffffffff;
+        margin: 10px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+#funcionamento
+    {
+        background-color: #ffffffff;
+        margin: 10px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+nav{
+    background-color:#6495ED; /* cor de fundo do menu */
+    padding: 20px;
+}
+
+nav ul li{
+    display: inline; /* organiza os itens em linha (um na frente do outro) */
+    padding: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:#00008B;
+}
